@@ -3,15 +3,6 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  let a ;
-  let b = 4;
-  // while((a = b--)){
-  //   console.log(a);
-  // }
-  while(b){
-    a = b--;
-    console.log(a);
-  }
   return (
     <div className="App">
       <header className="App-header">
